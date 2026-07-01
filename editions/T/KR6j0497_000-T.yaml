@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0497/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大聖天歡喜雙身毘那夜迦法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1266.xml
+    old_id: T21n1266
+hash: sha256:28790fe21049b40d6fb1b5f2a336135ab3383b0194581739324c00c2aac374f0

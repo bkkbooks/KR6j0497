@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6j0497/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0497/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大聖天歡喜雙身毘那夜迦法
+  identifiers:
+    krp: KR6j0497
+    cbeta: T21n1266
+    cbeta_old_id: T21n1266
+    authorityid: CA0000678
+    json_key: T1266
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1266.xml
+    old_id: T21n1266
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0497_000-T.yaml, hash: 'sha256:28790fe21049b40d6fb1b5f2a336135ab3383b0194581739324c00c2aac374f0'}
+  - {seq: 1, filename: KR6j0497_001-T.yaml, hash: 'sha256:916f019c152007a5e0c6e304826bae47ed513989fead0dbb7148d3602f9d824e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0497_000-T.markers.yaml, hash: 'sha256:0a7ce71ff72209a53389353f6ea6988588af5be4f8e0f5f0842eba058e8af84c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0497_001-T.markers.yaml, hash: 'sha256:90c560e19706e491c85a4ca838e2cd3a67932a9e848f46302ee86cbc01fb6ae7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0497_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1056
+  label: '大聖天歡喜雙身毘那夜迦法
+
+    一卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0497_T_001-mulu-1
+    span:
+    - body
+    - 662
+    - 662
+  label: 調和毘那夜迦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0497_T_001-mulu-2
+    span:
+    - body
+    - 959
+    - 959
+  label: 造像法
+  type: mulu
+  level: 1
+hash: sha256:2edd197ff540cebb6cf3fe60b5ee36a2fe28af4d37fe0fd380f2b6c3bc7d4c7d
