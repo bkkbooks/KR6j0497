@@ -40,7 +40,6 @@ markers:
   - {type: variant, offset: 82, length: 1, content: 合, 甲: 合反, 丙: 合引}
   - {type: xml-element, offset: 83, content: '', id: KR6j0497_T_001-bkkxmlele10, name: note, role: close, attrs: {place: inline}}
   - {type: variant, offset: 83, length: 1, content: 佗, 明: 佗三, 丁: 佗三}
-  - {type: substitution, offset: 83, original: 佗, replacement: 他, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3913}}
   - {type: xml-element, offset: 86, content: '', id: KR6j0497_T_001-bkkxmlele11, name: note, role: open, attrs: {place: inline}}
   - {type: variant, offset: 87, length: 1, content: 聲, 聖: 音}
   - {type: punctuation, offset: 88, content: ，, id: KR6j0497_T_001-bkkpn2}
@@ -103,7 +102,6 @@ markers:
   - {type: line-break, offset: 157, content: '', id: KR6j0497_T_001-0296a19, ed: T, 'n': 0296a19}
   - {type: xml-element, offset: 157, content: '', id: pT21p0296a1901, name: p, role: open, attrs: {'cb:type': dharani, 'xml:id': pT21p0296a1901}}
   - {type: variant, offset: 157, length: 1, content: 唵, 明: 唵引一, 丁: 唵引一}
-  - {type: substitution, offset: 158, original: 儗, replacement: 擬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0299}}
   - {type: xml-element, offset: 159, content: '', id: KR6j0497_T_001-bkkxmlele43, name: note, role: open, attrs: {place: inline}}
   - {type: variant, offset: 159, length: 1, content: 上, 明: 上聲, 丁: 上聲}
   - {type: xml-element, offset: 160, content: '', id: KR6j0497_T_001-bkkxmlele44, name: note, role: close, attrs: {place: inline}}
@@ -195,7 +193,6 @@ markers:
   - {type: line-break, offset: 386, content: '', id: KR6j0497_T_001-0296b06, ed: T, 'n': 0296b06}
   - {type: punctuation, offset: 391, content: ，, id: KR6j0497_T_001-bkkpn38}
   - {type: punctuation, offset: 395, content: 、, id: KR6j0497_T_001-bkkpn39}
-  - {type: substitution, offset: 398, original: 菓, replacement: 果, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0510}}
   - {type: punctuation, offset: 400, content: ，, id: KR6j0497_T_001-bkkpn40}
   - {type: line-break, offset: 403, content: '', id: KR6j0497_T_001-0296b07, ed: T, 'n': 0296b07}
   - {type: punctuation, offset: 409, content: ，, id: KR6j0497_T_001-bkkpn41}
@@ -358,7 +355,6 @@ markers:
   - {type: variant, offset: 644, length: 2, content: 二合, 聖: '', 甲: '', 乙: '', 丙: ''}
   - {type: xml-element, offset: 646, content: '', id: KR6j0497_T_001-bkkxmlele78, name: note, role: close, attrs: {place: inline}}
   - {type: variant, offset: 647, length: 1, content: 跛, 明: 跋, 聖: 跋, 甲: 跋, 乙: 跋}
-  - {type: substitution, offset: 648, original: 隷, replacement: 隸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0628}}
   - {type: variant, offset: 650, length: 1, content: 訶, 明: 訶二, 丁: 訶二, 乙: 訶吽}
   - {type: xml-element, offset: 651, content: '', id: pT21p0296b2901_end, name: p, role: close, attrs: {'cb:type': dharani, 'xml:id': pT21p0296b2901}}
   - {type: page-break, offset: 651, content: '', id: KR6j0497_T_001-0296c, 'n': 0296c, ed: T, source_xml_id: T21.1266.0296c}
@@ -369,7 +365,6 @@ markers:
   - {type: xml-element, offset: 662, content: '', id: pT21p0296c0101_end, name: p, role: close, attrs: {'xml:id': pT21p0296c0101}}
   - {type: line-break, offset: 662, content: '', id: KR6j0497_T_001-0296c02, ed: T, 'n': 0296c02}
   - {type: variant, offset: 662, length: 1, content: 調, 聖: 誦}
-  - {type: substitution, offset: 664, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: line-break, offset: 669, content: '', id: KR6j0497_T_001-0296c03, ed: T, 'n': 0296c03}
   - {type: xml-element, offset: 669, content: '', id: pT21p0296c0301, name: p, role: open, attrs: {'xml:id': pT21p0296c0301}}
   - {type: variant, offset: 669, length: 1, content: 請, 乙: 先須請}
@@ -418,7 +413,6 @@ markers:
   - {type: punctuation, offset: 747, content: ，, id: KR6j0497_T_001-bkkpn76}
   - {type: line-break, offset: 752, content: '', id: KR6j0497_T_001-0297a03, ed: T, 'n': 0297a03}
   - {type: punctuation, offset: 755, content: ，, id: KR6j0497_T_001-bkkpn77}
-  - {type: substitution, offset: 758, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: punctuation, offset: 764, content: 。, id: KR6j0497_T_001-bkkpn78}
   - {type: punctuation, offset: 768, content: ，, id: KR6j0497_T_001-bkkpn79}
   - {type: line-break, offset: 769, content: '', id: KR6j0497_T_001-0297a04, ed: T, 'n': 0297a04}
@@ -482,7 +476,6 @@ markers:
   - {type: variant, offset: 904, length: 1, content: 一, 明: 引一, 丁: 引一, 聖: ''}
   - {type: xml-element, offset: 905, content: '', id: KR6j0497_T_001-bkkxmlele86, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 905, content: 　, id: KR6j0497_T_001-bkkind5}
-  - {type: substitution, offset: 905, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: variant, offset: 906, length: 1, content: 跢, 明: 哆}
   - {type: xml-element, offset: 910, content: '', id: KR6j0497_T_001-bkkxmlele87, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 911, content: '', id: KR6j0497_T_001-bkkxmlele88, name: note, role: close, attrs: {place: inline}}
@@ -556,4 +549,4 @@ markers:
   - {type: xml-element, offset: 1056, content: '', id: pT21p0297a2301_end, name: p, role: close, attrs: {'xml:id': pT21p0297a2301}}
   - {type: line-break, offset: 1056, content: '', id: KR6j0497_T_001-0297a25, ed: T, 'n': 0297a25}
   back: []
-hash: sha256:5b354929cc9561a40261113adfde9755d2a1ca13ea90afc9920f3c21c088f0d7
+hash: sha256:0a304e098a4ddef80108256512ab5cf9cca33d8c4f64f2551711f6a50bc85797
